@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218266259684",
+    "firebase_url": "https://glide-library.firebaseio.com",
+    "project_id": "glide-library",
+    "storage_bucket": "glide-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218266259684:android:03adad65ef767faec81cf1",
+        "android_client_info": {
+          "package_name": "ge.msda.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218266259684-76s0qvteijeehnn436q9l2o7jcpu785v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ge.msda.firebasedb",
+            "certificate_hash": "ee984612d7ed8f4456d72f28a2c733d057b992a5"
+          }
+        },
+        {
+          "client_id": "218266259684-lscb9bqh6g2akqkl9d5jj0do3b4iih1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhJaXb51OPtcclXyLXtajqJdBYd5nbG8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218266259684-lscb9bqh6g2akqkl9d5jj0do3b4iih1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
